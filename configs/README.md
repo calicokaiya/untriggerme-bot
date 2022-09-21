@@ -12,9 +12,11 @@
 
 Insert the ID of a user on each line.
 Example:
+```
 Twitter 783214 0
 ScienceShitposts 1217558172929380352 1
 PyroCynical 21491779566452490245 2
+```
 
 *If you try to add more content, the bot will cry in the output*
 
